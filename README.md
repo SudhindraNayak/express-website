@@ -1,2 +1,2 @@
 # express-website
-sample node-mailer website
+moved to repository of express-mailing-website
